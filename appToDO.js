@@ -12,7 +12,7 @@ Pas kësaj, është radha e lojtarit tjetër
 */
 
 /* rezultati i lojes eshte nje tabele me dy elemente; 
-socre[0] ruan piket e lojtarit te pare dhe score[1] pike e lojtarit te dyte 
+score[0] ruan piket e lojtarit te pare dhe score[1] pike e lojtarit te dyte 
 activePlayer =0 rradhe e ka lojtari i pare, 1 rradhen e ka i dyti.
 gameEnded = false loja vazhdon, gameEnded = true loja ka mbaruar
 roundScore ruan piket e radhes per lojtari qe ka radhen
